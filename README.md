@@ -3,7 +3,7 @@
 
 
 <p>I'm studying Computer Engineering at Üsküdar University.</p>
-<p>I've been a Software Developer for 4 years. I've been interested Python and C# for 4 years.</p>
+<p>I've been a Software Developer for 5 years. I've been interested Python and C# for 4 years.</p>
 <p>💬 Ask me about Python or C#</p>
 <p>📫 How to reach me <a href="mailto:alkn19063@gmail.com">alkn19063@gmail.com</a></p>
 
