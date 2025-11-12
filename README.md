@@ -30,7 +30,7 @@ A dedicated Python developer focused on building practical solutions in Data Sci
 | **Data & Visualization** | **Pandas**, **Numpy**, Matplotlib, Jupyter Notebook |
 | **AI / APIs** | **Gemini API (Multi-Modal)**, Hugging Face Transformers |
 | **Web / Deployment** | **Streamlit**, GitHub, Docker (Basic) |
-| **Databases** | SQLite3 |
+| **Databases** | SQLite3, PostgreSQL (Basic) |
 
 ---
 
