@@ -43,8 +43,6 @@ A dedicated Python developer focused on building practical solutions in Data Sci
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
 <p>💬 Ask me about Python or C#</p>
 <p>📫 How to reach me <a href="mailto:alkn19063@gmail.com">alkn19063@gmail.com</a></p>
 
